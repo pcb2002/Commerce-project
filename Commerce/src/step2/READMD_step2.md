@@ -1,6 +1,6 @@
 ### 클래스 정의
 
-- Main : 시작 지점이 되는 클래스, `public static void main(String[] args)`
+- step2.Main : 시작 지점이 되는 클래스, `public static void main(String[] args)`
 - Product: 개별 상품 정보를 가지는 클래스
     - 상품명, 가격, 설명, 재고수량
         - 예시: Galaxy S24, 1200000, 최신 스마트폰, 50

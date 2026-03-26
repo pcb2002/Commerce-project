@@ -1,4 +1,4 @@
-import step1.Product;
+package step2;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
